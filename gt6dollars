@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "5ZM7K9oW5nJ1D7mLZRsVZVpoBeFNJZ4sZHu2MMKKNdNE",
+  "symbol": "GT6$",
+  "name": "GT6DOLLARS",
+  "decimals": 9,
+  "logoURI": "https://gt6dollats.github.io/GT6DOLLARS/logo.png",
+  "tags": ["utility-token"]
+}
